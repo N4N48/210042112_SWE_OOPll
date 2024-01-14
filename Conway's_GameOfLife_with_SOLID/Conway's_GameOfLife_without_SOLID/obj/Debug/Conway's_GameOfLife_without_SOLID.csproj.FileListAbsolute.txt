@@ -5,3 +5,10 @@ C:\Users\Dell\Documents\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_witho
 C:\Users\Dell\Documents\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\obj\Debug\Conway's_GameOfLife_without_SOLID.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Documents\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\obj\Debug\Conway's_GameOfLife_without_SOLID.exe
 C:\Users\Dell\Documents\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\obj\Debug\Conway's_GameOfLife_without_SOLID.pdb
+C:\Users\Dell\Documents\New folder\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\bin\Debug\Conway's_GameOfLife_without_SOLID.exe.config
+C:\Users\Dell\Documents\New folder\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\bin\Debug\Conway's_GameOfLife_without_SOLID.exe
+C:\Users\Dell\Documents\New folder\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\bin\Debug\Conway's_GameOfLife_without_SOLID.pdb
+C:\Users\Dell\Documents\New folder\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\obj\Debug\Conway's_GameOfLife_without_SOLID.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\New folder\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\obj\Debug\Conway's_GameOfLife_without_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\New folder\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\obj\Debug\Conway's_GameOfLife_without_SOLID.exe
+C:\Users\Dell\Documents\New folder\Conway's_GameOfLife_with_SOLID\Conway's_GameOfLife_without_SOLID\obj\Debug\Conway's_GameOfLife_without_SOLID.pdb

@@ -65,6 +65,7 @@ namespace Conway_s_GameOfLife_without_SOLID
 
         private void PrintGrid(Grid grid)
         {
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             for (int i = 0; i < grid.GetRows(); i++)
             {
                 for (int j = 0; j < grid.GetCols(); j++)
@@ -73,6 +74,7 @@ namespace Conway_s_GameOfLife_without_SOLID
                 }
                 Console.WriteLine();
             }
+            Console.ResetColor();
         }
 
         private int GetNeighborCount(Grid grid, int x, int y)

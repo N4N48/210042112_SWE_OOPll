@@ -6,20 +6,27 @@ using System.Threading.Tasks;
 
 namespace Conway_s_GameOfLife_with_SOLID
 {
+
+    
     // Display class implementing IDisplay
     public class Display:IDisplay
     {
+       
         public void ClearConsole() => Console.Clear();
         public void PrintGrid(IGrid grid)
         {
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+
             for (int i = 0; i < grid.GetRows(); i++)
             {
                 for (int j = 0; j < grid.GetCols(); j++)
                 {
-                    Console.Write(grid.GetCellValue(i, j) == 1 ? "█" : " ");
+                   
+                    Console.Write(grid.GetCellValue(i, j) == 1 ? "█" : " ");//alt+219 █
                 }
                 Console.WriteLine();
             }
+            Console.ResetColor();
         }
 
     }
