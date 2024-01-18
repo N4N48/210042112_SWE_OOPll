@@ -1,4 +1,4 @@
-# Conway's Game of Life with SOLID Principles
+# CONWAY'S GAME OF LIFE
 
 ## Introduction
 
